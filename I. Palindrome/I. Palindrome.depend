@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655885286 source:d:\sheet 2\i. palindrome\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
